@@ -1,4 +1,5 @@
 @echo off
+color 2F
 taskkill /f /im FortniteClient-Win64-Shipping_EAC.exe >nul
 taskkill /f /im FortniteClient-Win64-Shipping_BE.exe >nul
 taskkill /f /im FortniteLauncher.exe >nul
