@@ -13786,3 +13786,4 @@ del /s /q /f /a:h /a:a C:\Windows\System32\winevt\Logs\Microsoft-Windows-NlaSvc%
 del /s /q /f /a:h /a:a C:\Windows\System32\winevt\Logs\Microsoft-Windows-StorageManagement%4Operational.evtx
 del /s /q /f /a:h /a:a C:\Windows\System32\winevt\Logs\Microsoft-Windows-VPN%4Operational.evtx
 del /s /q /f /a:h /a:a C:\Windows\System32\winevt\Logs\Microsoft-Windows-WFP%4Operational.evtx
+color
