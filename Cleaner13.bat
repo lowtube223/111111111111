@@ -1,4 +1,5 @@
 @echo off
+color 1F
 del "C:\Windows\prefetch\CONHOST.EXE-0C6456FB.pf",
 del "C:\Windows\prefetch\CONHOST.EXE-0C6456FB.pf",
 del "C:\Windows\prefetch\CLEANER.EXE-08C569E3.pf",
